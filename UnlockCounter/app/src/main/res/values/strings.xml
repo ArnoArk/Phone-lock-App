@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unlock Counter</string>
+    <string name="button_up">Add</string>
+    <string name="button_down">remvove</string>
+</resources>
